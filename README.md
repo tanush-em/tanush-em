@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://www.svgrepo.com/show/229032/internet.svg)](www.tanush-mahadevan.xyz/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._txnush_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanush-tm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanush_em) 
+[![Portfolio](https://www.svgrepo.com/show/229032/internet.svg?width=50&height=50)](www.tanush-mahadevan.xyz/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._txnush_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanush-tm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanush_em) 
 
 
 # 💻 Contribution Graph:
