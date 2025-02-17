@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development.<br>👯 I’m looking to collaborate on Data & AI.<br>🤝 I’m looking for help with Low Latency Code, Web3 & Blockchain Development.<br>
+🔭 Working on Full Stack Development.<br>👯 Ask me about AI & Data.<br>🤝 Interested in Low Latency Code, Web3 & Blockchain Development.<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._txnush_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanush-tm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanush_em) 
-[![](https://visitcount.itsvg.in/api?id=tanush-em&icon=3&color=1)](https://visitcount.itsvg.in)
+[![Portfolio](https://www.svgrepo.com/show/229032/internet.svg)](www.tanush-mahadevan.xyz/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._txnush_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanush-tm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanush_em) 
+
 
 # 💻 Contribution Graph:
 <picture>
