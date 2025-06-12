@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on Full Stack Development.<br>👯 Ask me about AI & Data.<br>🤝 Interested in Low Latency Code, Web3 & Blockchain Development.<br>
+🔭 Working on Full Stack Development, Artificial Intelligence & Data.<br>🤝 Interested in Low Latency Code, Web3 & Blockchain Development.<br>
 
 
 ## 🌐 Socials:
